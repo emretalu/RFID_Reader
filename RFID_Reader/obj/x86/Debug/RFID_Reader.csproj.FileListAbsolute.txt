@@ -1,0 +1,9 @@
+C:\Users\Emre\documents\visual studio 2010\Projects\RFID_Reader\RFID_Reader\bin\Debug\RFID_Reader.exe
+C:\Users\Emre\documents\visual studio 2010\Projects\RFID_Reader\RFID_Reader\bin\Debug\RFID_Reader.pdb
+C:\Users\Emre\documents\visual studio 2010\Projects\RFID_Reader\RFID_Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emre\documents\visual studio 2010\Projects\RFID_Reader\RFID_Reader\obj\x86\Debug\RFID_Reader.Form1.resources
+C:\Users\Emre\documents\visual studio 2010\Projects\RFID_Reader\RFID_Reader\obj\x86\Debug\RFID_Reader.Properties.Resources.resources
+C:\Users\Emre\documents\visual studio 2010\Projects\RFID_Reader\RFID_Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Emre\documents\visual studio 2010\Projects\RFID_Reader\RFID_Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Emre\documents\visual studio 2010\Projects\RFID_Reader\RFID_Reader\obj\x86\Debug\RFID_Reader.exe
+C:\Users\Emre\documents\visual studio 2010\Projects\RFID_Reader\RFID_Reader\obj\x86\Debug\RFID_Reader.pdb
